@@ -9,3 +9,7 @@
 [assignment 5(first pass/fail assignment R)](https://github.com/helenehulsebosch/assignments/blob/master/Graded_assignment1af.ipynb) 
 
 [assignment 6(second assignment R)](https://github.com/helenehulsebosch/assignments/blob/master/Graded_assignment_2.ipynb)
+
+[exam assignment 1](https://github.com/helenehulsebosch/assignments/blob/master/Exam_student.ipynb)
+[exam assignment 2](https://github.com/helenehulsebosch/assignments/blob/master/exam_june_7_2018.ipynb) 
+
